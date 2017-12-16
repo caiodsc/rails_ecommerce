@@ -1,5 +1,9 @@
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
+
+  # Output config
+  $stdout.sync = true
+
   # Devise Config
   config.action_mailer.default_url_options = { host: '192.168.99.100', port: 3000 }
 
