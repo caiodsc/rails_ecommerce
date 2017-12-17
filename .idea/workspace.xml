@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3ef3e84-7c49-42cd-a721-95143fe416ea" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/hortifruti.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+    <list default="true" id="b3ef3e84-7c49-42cd-a721-95143fe416ea" name="Default" comment="Remove .idea">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -23,6 +16,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
@@ -713,7 +707,7 @@
       <option name="presentableId" value="Default" />
       <updated>1513128996697</updated>
       <workItem from="1513128998036" duration="5129000" />
-      <workItem from="1513456535740" duration="8102000" />
+      <workItem from="1513456535740" duration="8173000" />
     </task>
     <task id="LOCAL-00001" summary="Seeds e correção do output.">
       <created>1513462198362</created>
@@ -750,11 +744,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513472701236</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Remove .idea">
+      <created>1513472756637</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1513472756637</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13231000" />
+    <option name="totallyTimeSpent" value="13302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -790,7 +791,8 @@
     <MESSAGE value="Ads, sb-admin e backoffice." />
     <MESSAGE value="Layout - BackOffice" />
     <MESSAGE value="Layout - Site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Layout - Site" />
+    <MESSAGE value="Remove .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
