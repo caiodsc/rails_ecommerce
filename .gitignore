@@ -6,7 +6,6 @@
 
 # Ignore .idea
 .idea
-.idea/workspace.xml
 
 # Ignore bundler config.
 /.bundle
