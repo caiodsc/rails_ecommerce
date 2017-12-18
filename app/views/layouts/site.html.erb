@@ -7,8 +7,21 @@
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
 
-  <%= stylesheet_link_tag    'site', media: 'all', 'data-turbolinks-track': 'reload' %>
-  <%= javascript_include_tag 'site', 'data-turbolinks-track': 'reload' %>
+  <link href="https://blackrockdigital.github.io/startbootstrap-shop-homepage/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://blackrockdigital.github.io/startbootstrap-shop-homepage/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <!--<%= stylesheet_link_tag    'site', media: 'all', 'data-turbolinks-track': 'reload' %>-->
+  <!--<%= javascript_include_tag 'site', 'data-turbolinks-track': 'reload' %>-->
+  <style>
+    body {
+      padding-top: 54px;
+    }
+
+    @media (min-width: 992px) {
+      body {
+        padding-top: 56px;
+      }
+    }
+  </style>
 </head>
 
 <body>

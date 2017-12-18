@@ -5,7 +5,8 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 # The most popular front-end framework for developing responsive, mobile first projects on the web
-gem 'rails-assets-bootstrap', '3.3.7', source: 'http://insecure.rails-assets.org'
+#gem 'rails-assets-bootstrap', '3.3.7', source: 'http://insecure.rails-assets.org'
+gem 'rails-assets-bootstrap', source: 'http://insecure.rails-assets.org'
 # Rails gem of the Bootstrap based sb-admin theme SB Admin 2
 gem 'bootstrap_sb_admin_base_v2'
 # Translations for the devise gem
